@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [bep]: https://github.com/bep
 [bugs]: https://github.com/gohugoio/hugo/issues?q=is%3Aopen+is%3Aissue+label%3ABug
 [contributing]: CONTRIBUTING.md
@@ -280,3 +281,7 @@ rsc.io/qr="v0.2.0"
 software.sslmate.com/src/go-pkcs12="v0.2.0"
 ```
 </details>
+=======
+# OS_Blog
+A personal journey into operating system development — building an OS from scratch in C and Assembly while learning core concepts of bootloaders, memory management, scheduling, and kernel architecture.
+>>>>>>> 380758b76fb9aed274724af00478cda15655e887
